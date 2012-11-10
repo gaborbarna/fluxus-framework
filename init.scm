@@ -1,3 +1,3 @@
 (load "osc.scm")
 (load "init-audio.scm")
-(load "camera.flx")
+(load "camera.scm")
